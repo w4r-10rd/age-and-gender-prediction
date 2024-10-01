@@ -37,3 +37,12 @@ This project demonstrates how to detect age and gender from images or video stre
 
 Usage
 Run the script: python predict.py
+
+# for gpu utilization
+
+## download
+- opencv
+- opencv contrib
+- CMake
+- CUBNN installer
+- CUDA toolkit
