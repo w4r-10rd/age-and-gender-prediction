@@ -44,5 +44,5 @@ Run the script: python predict.py
 - opencv
 - opencv contrib
 - CMake
-- CUBNN installer
+- CUDNN installer
 - CUDA toolkit
